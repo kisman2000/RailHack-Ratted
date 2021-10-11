@@ -1,0 +1,15 @@
+[{
+	"modid"        : "RailHack",
+	"name"         : "RailHack",
+	"description"  : "RailHack",
+	"version"      : "1.2.6",
+	"mcversion"    : "1.12.2-14.23.5.2772",
+	"url"          : "https://wurst.plus",
+	"updateUrl"    : "https://wurst.plus",
+	"authorList"   : ["railhack"],
+	"credits"      : "railhack",
+	"logoFile"     : "wurstplus.png",
+	"screenshots"  : [],
+	"dependencies" : []
+
+}]
